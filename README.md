@@ -10,6 +10,7 @@
 
     back-end: python flask + flask-restful
 
+    /server
     virtualenv app
     source app/bin/activate
     pip install flask flask-restful
